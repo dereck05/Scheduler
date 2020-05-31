@@ -1,6 +1,7 @@
 
 #include <stdio.h>
 #include <gtk/gtk.h>
+#include <curses.h>
 #include ".idea/Calendarizer.h"
 static void activate(GtkApplication *app, gpointer user_data)
 {
@@ -30,6 +31,11 @@ int main(int argc, char **argv) {
 //    return status;
     Calendar c;
     c.numberProcess = 4;
+    c.quantum = 1;
+    c.job = 5;
     FCFS(c);
+
+
+
 
 }

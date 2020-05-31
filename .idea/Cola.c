@@ -1,4 +1,4 @@
-
+#include <stdio.h>
 #include "Cola.h"
 
 
@@ -24,17 +24,25 @@ void Push(Process p,Process cola[])
 
 Process Pop(Process cola[])
 {
-    Process toReturn ; // Valor a devolver si la cola está vacía
+    Process toReturn  ; // Valor a devolver si la cola está vacía
 
-    if( pop != -1 )
-    {
+    if( pop != -1 ) {
         toReturn = cola[pop];
 
-        pop = (pop+1)%10;
+        pop = (pop + 1) % 10;
 
-        if( pop == push )
+        if (pop == push)
             pop = -1; // Si hemos extraido el último indicamos que está vacía
     }
 
     return toReturn;
+}
+
+void printResults(Process cola[]){
+    int cont = 0;
+    while(cola != NULL){
+        Process p = Pop(cola);
+        printf("Proceso %d :","%d\n",p.processNumber,p.result);
+
+    }
 }

@@ -6,7 +6,11 @@
 #define TP2_OPERATIVOS_PROCESS_H
 struct Process{
     int processNumber;
-    double result;
+    int jobDone;
+    int iteration;
+    long double lastTaylor;
+    long double result;
+
 };
 typedef struct Process Process ;
 

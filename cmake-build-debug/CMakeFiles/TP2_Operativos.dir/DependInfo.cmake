@@ -4,6 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/Users/dereck/CLionProjects/TP2_Operativos/.idea/Calendarizer.c" "/Users/dereck/CLionProjects/TP2_Operativos/cmake-build-debug/CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.o"
+  "/Users/dereck/CLionProjects/TP2_Operativos/.idea/Cola.c" "/Users/dereck/CLionProjects/TP2_Operativos/cmake-build-debug/CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.o"
+  "/Users/dereck/CLionProjects/TP2_Operativos/.idea/Process.c" "/Users/dereck/CLionProjects/TP2_Operativos/cmake-build-debug/CMakeFiles/TP2_Operativos.dir/.idea/Process.c.o"
   "/Users/dereck/CLionProjects/TP2_Operativos/main.c" "/Users/dereck/CLionProjects/TP2_Operativos/cmake-build-debug/CMakeFiles/TP2_Operativos.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")

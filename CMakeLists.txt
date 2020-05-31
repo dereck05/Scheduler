@@ -9,6 +9,6 @@ include_directories(${GTK3_INCLUDE_DIRS})
 link_directories(${GTK3_LIBRARY_DIRS})
 
 add_definitions(${GTK3_CFLAGS_OTHER})
-add_executable(TP2_Operativos main.c)
+add_executable(TP2_Operativos main.c .idea/Calendarizer.c .idea/Cola.c .idea/Process.c .idea/Calendarizer.h .idea/Cola.h .idea/Process.h)
 
 target_link_libraries(TP2_Operativos ${GTK3_LIBRARIES})

@@ -123,6 +123,87 @@ TP2_Operativos/fast:
 	$(MAKE) -f CMakeFiles/TP2_Operativos.dir/build.make CMakeFiles/TP2_Operativos.dir/build
 .PHONY : TP2_Operativos/fast
 
+.idea/Calendarizer.o: .idea/Calendarizer.c.o
+
+.PHONY : .idea/Calendarizer.o
+
+# target to build an object file
+.idea/Calendarizer.c.o:
+	$(MAKE) -f CMakeFiles/TP2_Operativos.dir/build.make CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.o
+.PHONY : .idea/Calendarizer.c.o
+
+.idea/Calendarizer.i: .idea/Calendarizer.c.i
+
+.PHONY : .idea/Calendarizer.i
+
+# target to preprocess a source file
+.idea/Calendarizer.c.i:
+	$(MAKE) -f CMakeFiles/TP2_Operativos.dir/build.make CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.i
+.PHONY : .idea/Calendarizer.c.i
+
+.idea/Calendarizer.s: .idea/Calendarizer.c.s
+
+.PHONY : .idea/Calendarizer.s
+
+# target to generate assembly for a file
+.idea/Calendarizer.c.s:
+	$(MAKE) -f CMakeFiles/TP2_Operativos.dir/build.make CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.s
+.PHONY : .idea/Calendarizer.c.s
+
+.idea/Cola.o: .idea/Cola.c.o
+
+.PHONY : .idea/Cola.o
+
+# target to build an object file
+.idea/Cola.c.o:
+	$(MAKE) -f CMakeFiles/TP2_Operativos.dir/build.make CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.o
+.PHONY : .idea/Cola.c.o
+
+.idea/Cola.i: .idea/Cola.c.i
+
+.PHONY : .idea/Cola.i
+
+# target to preprocess a source file
+.idea/Cola.c.i:
+	$(MAKE) -f CMakeFiles/TP2_Operativos.dir/build.make CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.i
+.PHONY : .idea/Cola.c.i
+
+.idea/Cola.s: .idea/Cola.c.s
+
+.PHONY : .idea/Cola.s
+
+# target to generate assembly for a file
+.idea/Cola.c.s:
+	$(MAKE) -f CMakeFiles/TP2_Operativos.dir/build.make CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.s
+.PHONY : .idea/Cola.c.s
+
+.idea/Process.o: .idea/Process.c.o
+
+.PHONY : .idea/Process.o
+
+# target to build an object file
+.idea/Process.c.o:
+	$(MAKE) -f CMakeFiles/TP2_Operativos.dir/build.make CMakeFiles/TP2_Operativos.dir/.idea/Process.c.o
+.PHONY : .idea/Process.c.o
+
+.idea/Process.i: .idea/Process.c.i
+
+.PHONY : .idea/Process.i
+
+# target to preprocess a source file
+.idea/Process.c.i:
+	$(MAKE) -f CMakeFiles/TP2_Operativos.dir/build.make CMakeFiles/TP2_Operativos.dir/.idea/Process.c.i
+.PHONY : .idea/Process.c.i
+
+.idea/Process.s: .idea/Process.c.s
+
+.PHONY : .idea/Process.s
+
+# target to generate assembly for a file
+.idea/Process.c.s:
+	$(MAKE) -f CMakeFiles/TP2_Operativos.dir/build.make CMakeFiles/TP2_Operativos.dir/.idea/Process.c.s
+.PHONY : .idea/Process.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -159,6 +240,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TP2_Operativos"
+	@echo "... .idea/Calendarizer.o"
+	@echo "... .idea/Calendarizer.i"
+	@echo "... .idea/Calendarizer.s"
+	@echo "... .idea/Cola.o"
+	@echo "... .idea/Cola.i"
+	@echo "... .idea/Cola.s"
+	@echo "... .idea/Process.o"
+	@echo "... .idea/Process.i"
+	@echo "... .idea/Process.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

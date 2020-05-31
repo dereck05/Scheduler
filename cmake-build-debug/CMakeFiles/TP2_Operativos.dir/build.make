@@ -70,17 +70,62 @@ CMakeFiles/TP2_Operativos.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TP2_Operativos.dir/main.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/dereck/CLionProjects/TP2_Operativos/main.c -o CMakeFiles/TP2_Operativos.dir/main.c.s
 
+CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.o: CMakeFiles/TP2_Operativos.dir/flags.make
+CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.o: ../.idea/Calendarizer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dereck/CLionProjects/TP2_Operativos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.o   -c /Users/dereck/CLionProjects/TP2_Operativos/.idea/Calendarizer.c
+
+CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/dereck/CLionProjects/TP2_Operativos/.idea/Calendarizer.c > CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.i
+
+CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/dereck/CLionProjects/TP2_Operativos/.idea/Calendarizer.c -o CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.s
+
+CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.o: CMakeFiles/TP2_Operativos.dir/flags.make
+CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.o: ../.idea/Cola.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dereck/CLionProjects/TP2_Operativos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.o   -c /Users/dereck/CLionProjects/TP2_Operativos/.idea/Cola.c
+
+CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/dereck/CLionProjects/TP2_Operativos/.idea/Cola.c > CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.i
+
+CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/dereck/CLionProjects/TP2_Operativos/.idea/Cola.c -o CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.s
+
+CMakeFiles/TP2_Operativos.dir/.idea/Process.c.o: CMakeFiles/TP2_Operativos.dir/flags.make
+CMakeFiles/TP2_Operativos.dir/.idea/Process.c.o: ../.idea/Process.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dereck/CLionProjects/TP2_Operativos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/TP2_Operativos.dir/.idea/Process.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TP2_Operativos.dir/.idea/Process.c.o   -c /Users/dereck/CLionProjects/TP2_Operativos/.idea/Process.c
+
+CMakeFiles/TP2_Operativos.dir/.idea/Process.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TP2_Operativos.dir/.idea/Process.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/dereck/CLionProjects/TP2_Operativos/.idea/Process.c > CMakeFiles/TP2_Operativos.dir/.idea/Process.c.i
+
+CMakeFiles/TP2_Operativos.dir/.idea/Process.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TP2_Operativos.dir/.idea/Process.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/dereck/CLionProjects/TP2_Operativos/.idea/Process.c -o CMakeFiles/TP2_Operativos.dir/.idea/Process.c.s
+
 # Object files for target TP2_Operativos
 TP2_Operativos_OBJECTS = \
-"CMakeFiles/TP2_Operativos.dir/main.c.o"
+"CMakeFiles/TP2_Operativos.dir/main.c.o" \
+"CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.o" \
+"CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.o" \
+"CMakeFiles/TP2_Operativos.dir/.idea/Process.c.o"
 
 # External object files for target TP2_Operativos
 TP2_Operativos_EXTERNAL_OBJECTS =
 
 TP2_Operativos: CMakeFiles/TP2_Operativos.dir/main.c.o
+TP2_Operativos: CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.o
+TP2_Operativos: CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.o
+TP2_Operativos: CMakeFiles/TP2_Operativos.dir/.idea/Process.c.o
 TP2_Operativos: CMakeFiles/TP2_Operativos.dir/build.make
 TP2_Operativos: CMakeFiles/TP2_Operativos.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/dereck/CLionProjects/TP2_Operativos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable TP2_Operativos"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/dereck/CLionProjects/TP2_Operativos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable TP2_Operativos"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TP2_Operativos.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

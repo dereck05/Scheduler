@@ -1,4 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/TP2_Operativos.dir/.idea/Calendarizer.c.o"
+  "CMakeFiles/TP2_Operativos.dir/.idea/Cola.c.o"
+  "CMakeFiles/TP2_Operativos.dir/.idea/Process.c.o"
   "CMakeFiles/TP2_Operativos.dir/main.c.o"
   "TP2_Operativos"
   "TP2_Operativos.pdb"

@@ -118,6 +118,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/dereck/CLionProjects/TP2_Operativos/.idea/Calendarizer.c">
+			<Option target="TP2_Operativos"/>
+		</Unit>
+		<Unit filename="/Users/dereck/CLionProjects/TP2_Operativos/.idea/Calendarizer.h">
+			<Option target="TP2_Operativos"/>
+		</Unit>
+		<Unit filename="/Users/dereck/CLionProjects/TP2_Operativos/.idea/Cola.c">
+			<Option target="TP2_Operativos"/>
+		</Unit>
+		<Unit filename="/Users/dereck/CLionProjects/TP2_Operativos/.idea/Cola.h">
+			<Option target="TP2_Operativos"/>
+		</Unit>
+		<Unit filename="/Users/dereck/CLionProjects/TP2_Operativos/.idea/Process.c">
+			<Option target="TP2_Operativos"/>
+		</Unit>
+		<Unit filename="/Users/dereck/CLionProjects/TP2_Operativos/.idea/Process.h">
+			<Option target="TP2_Operativos"/>
+		</Unit>
 		<Unit filename="/Users/dereck/CLionProjects/TP2_Operativos/main.c">
 			<Option target="TP2_Operativos"/>
 		</Unit>
